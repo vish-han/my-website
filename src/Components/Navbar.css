@@ -1,0 +1,32 @@
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+    align-items: center;
+    margin-top: -7px;
+
+    }
+        
+        
+        ul{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+        }
+        .nav-items{
+            width: 600px;
+        }
+        .name{
+            font-size: 34px;
+            font-stretch: 17px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-left: 10px;
+
+        }
+        li{
+            list-style: none;
+            font-size:21px;
+            font-weight:bolder;
+            cursor: pointer;
+        }
