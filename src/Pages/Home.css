@@ -1,0 +1,18 @@
+
+.hello{
+    font-size: 50px;
+    color:red;
+}
+.disc{
+    font-size: 30px;
+    color: red;
+}
+.in-touch{
+    font-size: 25px;
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:auto;
+}
