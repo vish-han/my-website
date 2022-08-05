@@ -30,3 +30,6 @@
             font-weight:bolder;
             cursor: pointer;
         }
+        li img{
+            margin-top: -10px;
+        }

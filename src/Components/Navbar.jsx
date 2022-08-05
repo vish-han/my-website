@@ -2,6 +2,7 @@ import React from 'react'
 import Dark from '../assets/dark.png'
 import './Navbar.css'
 const Navbar = () => {
+
   return (
     <div className="navbar">
       <div className="name">Vishal Chauhan</div>
