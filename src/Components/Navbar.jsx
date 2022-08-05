@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <div className="name"><img src={name} alt="" /></div>
+      <div><img  src={name}  claalt="" width="268px"/></div>
         <div className="nav-items">
         <ul>
             <li>Home</li>
@@ -18,6 +18,6 @@ const Navbar = () => {
         </div>
     </div>
   )
-}
+} 
 
 export default Navbar
