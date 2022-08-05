@@ -24,6 +24,7 @@
     justify-content: space-between;
     margin-left: 63px;
     height:auto;
+
 }
 .container{
     display: flex;
@@ -37,5 +38,18 @@
 }
 .right{
     display: flex;
-    flex: 1;    
+    flex: 1; 
+    align-items: center;
+    justify-content:center;   
+}
+.mypic{
+    height:500px;
+    width:650px;
+    transition: width 1.5s, height 1.5s;
+}
+.mypic:hover{
+    
+    width:700px;
+    height: 550px
+    
 }
