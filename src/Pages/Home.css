@@ -45,7 +45,7 @@
 .mypic{
     height:500px;
     width:650px;
-    transition: width 1.5s, height 1.5s;
+    transition: width 1s, height 1s;
 }
 .mypic:hover{
     

@@ -6,7 +6,13 @@
     margin-top: -7px;
 
     }
-        
+       .logo{
+        width: 252px;
+        height: 74px;
+        margin-top: 10px;
+    }
+    
+    
         
         ul{
             display: flex;

@@ -1,11 +1,12 @@
 import React from 'react'
 import Dark from '../assets/dark.png'
 import './Navbar.css'
+import name from '../assets/Vishal.png'
 const Navbar = () => {
 
   return (
     <div className="navbar">
-      <div className="name">Vishal Chauhan</div>
+      <div className="name"><img src={name} alt="" /></div>
         <div className="nav-items">
         <ul>
             <li>Home</li>
